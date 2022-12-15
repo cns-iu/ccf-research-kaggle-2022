@@ -8,8 +8,8 @@ The repo is structured in the following way:
 ```
 ## Data
 
-All data will be made publicly available after competition end (September 2022). 
+All data used in the competition and the external data used by the winning teams can be [accessed here](https://drive.google.com/drive/folders/1wsaMx1aH0BMAdP3jYvxfuOEghMd9x-pO?usp=sharing). 
 
 ## Models
 
-All machine learning models (baseline model, winning algorithms) will be made publicly available after competition end (September 2022).
+All trained models (baseline model, winning algorithms) can be [accessed here](https://drive.google.com/drive/folders/1wsaMx1aH0BMAdP3jYvxfuOEghMd9x-pO?usp=sharing).
