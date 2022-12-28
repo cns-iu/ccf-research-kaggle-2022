@@ -1,0 +1,5 @@
+opencv-python==4.5.5.64
+torch==1.12.1+cu116
+timm @ git+https://github.com/rwightman/pytorch-image-models@1d8ada359a1e29e1fad7e4a1dacba174f0710489
+imgaug==0.4.0
+staintools==2.1.2

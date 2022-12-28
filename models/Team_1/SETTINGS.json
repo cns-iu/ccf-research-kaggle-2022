@@ -1,0 +1,18 @@
+{   
+    "TEST_DATA_IMAGE_PATH": "/content/hubmap/train_images",
+    "TEST_DATA_CSV_PATH": "/content/hubmap/train.csv",
+    "MODEL_1": "./models/segformer_mit-b3_1024.pth",
+    "MODEL_2": "./models/segformer_mit-b4_960.pth",
+    "MODEL_3": "./models/segformer_mit-b4_960_2.pth",
+    "MODEL_4": "./models/segformer_mit-b5_928.pth",
+    "MODEL_5": "./models/segformer_mit-b5_960.pth",
+    "MODEL_6": "./models/segformer_mit-b5_960_2.pth",
+    "MODEL_CONFIG_1": "./model_configs/segformer-mit_b3_hubmap_1024.py",
+    "MODEL_CONFIG_2": "./model_configs/segformer-mit_b4_hubmap_960.py",
+    "MODEL_CONFIG_3": "./model_configs/segformer-mit_b4_hubmap_960.py",
+    "MODEL_CONFIG_4": "./model_configs/segformer-mit_b5_hubmap_928.py",
+    "MODEL_CONFIG_5": "./model_configs/segformer-mit_b5_hubmap_960.py",
+    "MODEL_CONFIG_6": "./model_configs/segformer-mit_b5_hubmap_960.py",
+    "USE_MODEL":[1,2,3,4,5,6],
+    "SUBMISSION_DIR": "./submissions"
+}

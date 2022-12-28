@@ -1,0 +1,11 @@
+.
+./test_images
+./masks
+./external_pred
+./external_images
+./train_color_transfered
+./train_pred_oof
+./weights
+./hpa_images_extra_pred
+./train_images
+./hpa_images_extra
