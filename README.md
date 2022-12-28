@@ -4,6 +4,7 @@ The development of a [reference atlas of the healthy human body at the single-ce
 
 The repo is structured in the following way:
 ```
+├── models
 ├── utils
 ```
 ## Data
