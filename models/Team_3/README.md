@@ -1,5 +1,4 @@
-# hubmap_2022_htt_solution
-Codebase for HuBMAP + HPA - Hacking the Human Body: Human Torus Team solution (3d Place) 
+Below you can find an outline of how to reproduce team 3 solution for the HuBMAP + HPA - Hacking the Human Body competition.
 
 # Setting up environment  
 
