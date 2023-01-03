@@ -1,4 +1,4 @@
-Below you can find a outline of how to reproduce my solution for the HuBMAP + HPA - Hacking the Human Body competition.  
+Below you can find an outline of how to reproduce team 1 solution for the HuBMAP + HPA - Hacking the Human Body competition.  
 
 # CONTENTS  
 notebooks_for_reference: for reference of cell outputs.  
@@ -11,19 +11,10 @@ segformer_training.ipynb: For reproducing training models on Colab.
 predict.py  
 inference_sample_on_colab.ipynb  
 A kaggle notebook "verification_hubmap" for inference on Kaggle.  
+A kaggle notebook "mmseg_src" for using required libraries offline on kaggle notebooks. 
   
-# HARDWARE: (The following specs were used to create the original solution)  
-The specs depends on Colab settings so It's difficult to describe here.  
-Please check segformer_training.ipynb(for reproducing) and if necessary notebooks_for_reference(only for reference)  
-1 x NVIDIA Tesla V100-SXM2 or P100  
-  
-# SOFTWARE:  
-I used Colab for training and Kaggle notebook for inference.  
-Please see logs of the notebooks for detailed software version.  
-I didn't prepare requirements.txt because main software is customized MMSegmentation and when installing, MMSegmentation automatically download related libraries.  
-Also, notebook might be better than script because of these consistency.  
-  
-Also provided is a kaggle notebook "mmseg_src" for using required libraries offline on kaggle notebooks.  
+# Hardware requirements:  
+The models used Google Colab Pro+ for training and Kaggle Kernels for inference.
   
 # MODEL BUILD:  
 1) trained model prediction  
@@ -71,7 +62,3 @@ dataset: Additional dataset "images_stained_with_pas" and "images_stained_with_p
 image size: 960x960  
 seed:2022  
 GPU: NVIDIA Tesla P100 in this notebook due to out of memory in Tesla V100.  
-
-
-
-
