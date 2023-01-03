@@ -1,9 +1,6 @@
-Below you can find a outline of how to reproduce my solution for the "HuBMAP + HPA - Hacking the Human Body" competition.
+Below you can find an outline of how to reproduce team 2 solution for the HuBMAP + HPA - Hacking the Human Body competition.
 
-Note: competition data expected to be extracted in current directory. All data shoould be placed in current directory.
-
-
-# ARCHIVE CONTENTS:
+# CONTENTS:
 weights: models weights.  
 train.sh: executes training of all models.  
 train.py: code to train single model.  
