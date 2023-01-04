@@ -6,3 +6,21 @@
 - `Submissions vs Score.ipynb`: Number of submissions and relevant highest private score plots for the competition
 - `User interactions.ipynb`: Plots of number of topics, topic replies and topic scores
 - `teams and scores vis.ipynb`: Plots of number of teams registered over time and trends after team merger along with public and private leaderboard score trends
+
+## Data
+List of files to be downloaded from Kaggle Metadata - https://www.kaggle.com/datasets/kaggle/meta-kaggle
+
+Competitions.csv
+Datasets.csv
+ForumMessageVotes.csv
+ForumMessages.csv
+ForumMessagesForTopTopics.csv
+ForumTopics.csv
+Forums.csv
+KernelVersionCompetitionSources.csv
+Kernels.csv
+Submissions.csv
+TeamMemberships.csv
+Teams.csv
+Users.csv
+targetKernels.csv
