@@ -10,10 +10,10 @@
 ## Data
 List of files to be downloaded from Kaggle Metadata - https://www.kaggle.com/datasets/kaggle/meta-kaggle
 
-Competitions.csv
-Datasets.csv
-ForumMessageVotes.csv
-ForumMessages.csv
+Competitions.csv <br>
+Datasets.csv <br>
+ForumMessageVotes.csv <br>
+ForumMessages.csv <br>
 ForumMessagesForTopTopics.csv
 ForumTopics.csv
 Forums.csv
