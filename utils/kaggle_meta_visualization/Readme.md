@@ -10,17 +10,17 @@
 ## Data
 List of files to be downloaded from Kaggle Metadata - https://www.kaggle.com/datasets/kaggle/meta-kaggle
 
-Competitions.csv <br>
-Datasets.csv <br>
-ForumMessageVotes.csv <br>
-ForumMessages.csv <br>
-ForumMessagesForTopTopics.csv <br>
-ForumTopics.csv <br>
-Forums.csv <br>
-KernelVersionCompetitionSources.csv <br>
-Kernels.csv <br>
-Submissions.csv <br>
-TeamMemberships.csv <br>
-Teams.csv <br>
-Users.csv <br>
-targetKernels.csv <br>
+`Competitions.csv` <br>
+`Datasets.csv` <br>
+`ForumMessageVotes.csv` <br>
+`ForumMessages.csv` <br>
+`ForumMessagesForTopTopics.csv` <br>
+`ForumTopics.csv` <br>
+`Forums.csv` <br>
+`KernelVersionCompetitionSources.csv` <br>
+`Kernels.csv` <br>
+`Submissions.csv` <br>
+`TeamMemberships.csv` <br>
+`Teams.csv` <br>
+`Users.csv`<br>
+`targetKernels.csv` <br>
