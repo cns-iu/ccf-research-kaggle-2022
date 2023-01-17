@@ -15,13 +15,12 @@
 - Python 3
 - CUDA 
 - cuddn 
-- nvidia drivers 
-- See `kaggle-hubmap-main/requirements.txt` file for a detailed list of dependencies.
+- nvidia drivers
 
 ### Usage
-- Use Inference.py to run inference on a dataset.
-- Use train folder to train on a dataset.
-    cd src
+- Use `inference_code.py` to run inference on a dataset.
+- Use `train` folder to train on a dataset.
+    ```cd src
     cd 01_data_preparation/01_01
     python data_preparation_01_01.py
     cd ..
@@ -30,5 +29,6 @@
     cd ..
     cd ..
     cd 02_train
-    python train_02.py
+    python train_02.py```
+ - Use `Performance_Metrics.ipynb` to calculate dice scores for the predictions.
 
