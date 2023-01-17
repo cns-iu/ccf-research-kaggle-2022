@@ -1,0 +1,14 @@
+train_df.shape =  (472, 4)
+info_df.shape  =  (982, 15)
+sub_df.shape =  (470, 4)
+False    4750
+True     3703
+Name: is_masked, dtype: int64
+1    1268
+4    1204
+2     773
+3     458
+Name: binned, dtype: int64
+mean =  925
+seed = 0, fold = 0
+lr :  [0.0001]

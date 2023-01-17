@@ -1,0 +1,227 @@
+train_df.shape =  (472, 4)
+info_df.shape  =  (982, 15)
+sub_df.shape =  (470, 4)
+False    4750
+True     3703
+Name: is_masked, dtype: int64
+1    1268
+4    1204
+2     773
+3     458
+Name: binned, dtype: int64
+mean =  925
+seed = 0, fold = 0
+lr :  [0.0001]
+(6520, 3, 320, 320)
+epoch 1 loss_trn = 3.01083, loss_val = 2.11447, trn_score = 0.3752, val_score = 0.6942
+model (best loss) saved
+model (best score) saved
+
+lr :  [9.932488451843476e-05]
+(6520, 3, 320, 320)
+epoch 2 loss_trn = 2.21245, loss_val = 1.88728, trn_score = 0.5733, val_score = 0.7098
+model (best loss) saved
+model (best score) saved
+
+lr :  [9.731795346418142e-05]
+(6520, 3, 320, 320)
+epoch 3 loss_trn = 2.02399, loss_val = 1.87429, trn_score = 0.6597, val_score = 0.7181
+model (best loss) saved
+model (best score) saved
+
+lr :  [9.403395068472121e-05]
+(6520, 3, 320, 320)
+epoch 4 loss_trn = 1.89471, loss_val = 1.78926, trn_score = 0.6708, val_score = 0.7316
+model (best loss) saved
+model (best score) saved
+
+lr :  [8.956245521512149e-05]
+(6520, 3, 320, 320)
+epoch 5 loss_trn = 1.77796, loss_val = 1.73448, trn_score = 0.7059, val_score = 0.7221
+model (best loss) saved
+
+lr :  [8.40254377954742e-05]
+(6520, 3, 320, 320)
+epoch 6 loss_trn = 1.75169, loss_val = 1.61298, trn_score = 0.7075, val_score = 0.7289
+model (best loss) saved
+
+lr :  [7.757393382706014e-05]
+(6520, 3, 320, 320)
+epoch 7 loss_trn = 1.65363, loss_val = 1.56506, trn_score = 0.7206, val_score = 0.7577
+model (best loss) saved
+model (best score) saved
+
+lr :  [7.038392352032199e-05]
+(6520, 3, 320, 320)
+epoch 8 loss_trn = 1.65648, loss_val = 1.60325, trn_score = 0.7215, val_score = 0.7741
+model (best score) saved
+
+lr :  [6.265153161346956e-05]
+(6520, 3, 320, 320)
+epoch 9 loss_trn = 1.63480, loss_val = 1.53953, trn_score = 0.7149, val_score = 0.7359
+model (best loss) saved
+
+lr :  [5.458767760088046e-05]
+(6520, 3, 320, 320)
+epoch 10 loss_trn = 1.52506, loss_val = 1.72335, trn_score = 0.7509, val_score = 0.7483
+ elapsed_time = 95.5 min
+
+lr :  [4.6412322399119556e-05]
+(6520, 3, 320, 320)
+epoch 11 loss_trn = 1.50559, loss_val = 1.57555, trn_score = 0.7517, val_score = 0.7458
+
+lr :  [3.8348468386530454e-05]
+(6520, 3, 320, 320)
+epoch 12 loss_trn = 1.49413, loss_val = 1.61329, trn_score = 0.7576, val_score = 0.7573
+
+lr :  [3.061607647967802e-05]
+(6520, 3, 320, 320)
+epoch 13 loss_trn = 1.44543, loss_val = 1.72576, trn_score = 0.7510, val_score = 0.7297
+
+lr :  [2.3426066172939865e-05]
+(6520, 3, 320, 320)
+epoch 14 loss_trn = 1.37940, loss_val = 1.52024, trn_score = 0.7699, val_score = 0.7636
+model (best loss) saved
+
+lr :  [1.697456220452583e-05]
+(6520, 3, 320, 320)
+epoch 15 loss_trn = 1.36917, loss_val = 1.45493, trn_score = 0.7643, val_score = 0.7743
+model (best loss) saved
+model (best score) saved
+
+lr :  [1.1437544784878526e-05]
+(6520, 3, 320, 320)
+epoch 16 loss_trn = 1.38755, loss_val = 1.49754, trn_score = 0.7619, val_score = 0.7646
+
+lr :  [6.966049315278797e-06]
+(6520, 3, 320, 320)
+epoch 17 loss_trn = 1.34778, loss_val = 1.58770, trn_score = 0.7696, val_score = 0.7750
+model (best score) saved
+
+lr :  [3.68204653581858e-06]
+(6520, 3, 320, 320)
+epoch 18 loss_trn = 1.33759, loss_val = 1.53666, trn_score = 0.7711, val_score = 0.7780
+model (best score) saved
+model saved epoch18 for snapshot ensemble
+
+lr :  [1.675115481565245e-06]
+(6520, 3, 320, 320)
+epoch 19 loss_trn = 1.34261, loss_val = 1.48938, trn_score = 0.7727, val_score = 0.7714
+model saved epoch19 for snapshot ensemble
+
+lr :  [1e-06]
+(6520, 3, 320, 320)
+epoch 20 loss_trn = 1.30366, loss_val = 1.53486, trn_score = 0.7715, val_score = 0.7779
+ elapsed_time = 190.4 min
+model saved epoch20 for snapshot ensemble
+
+epoch_best 15, val_loss_best 1.45493, val_score_best 0.77429
+
+seed = 0, fold = 1
+lr :  [0.0001]
+(6336, 3, 320, 320)
+epoch 1 loss_trn = 2.91376, loss_val = 2.24751, trn_score = 0.3893, val_score = 0.6389
+model (best loss) saved
+model (best score) saved
+
+lr :  [9.932488451843476e-05]
+(6336, 3, 320, 320)
+epoch 2 loss_trn = 2.19911, loss_val = 2.07868, trn_score = 0.5926, val_score = 0.7212
+model (best loss) saved
+model (best score) saved
+
+lr :  [9.731795346418142e-05]
+(6336, 3, 320, 320)
+epoch 3 loss_trn = 2.03898, loss_val = 1.92792, trn_score = 0.6423, val_score = 0.7128
+model (best loss) saved
+
+lr :  [9.403395068472121e-05]
+(6336, 3, 320, 320)
+epoch 4 loss_trn = 1.94225, loss_val = 1.85193, trn_score = 0.6603, val_score = 0.6942
+model (best loss) saved
+
+lr :  [8.956245521512149e-05]
+(6336, 3, 320, 320)
+epoch 5 loss_trn = 1.84007, loss_val = 1.65212, trn_score = 0.6962, val_score = 0.7359
+model (best loss) saved
+model (best score) saved
+
+lr :  [8.40254377954742e-05]
+(6336, 3, 320, 320)
+epoch 6 loss_trn = 1.80723, loss_val = 1.63844, trn_score = 0.6764, val_score = 0.7573
+model (best loss) saved
+model (best score) saved
+
+lr :  [7.757393382706014e-05]
+(6336, 3, 320, 320)
+epoch 7 loss_trn = 1.72850, loss_val = 1.68094, trn_score = 0.6998, val_score = 0.7355
+
+lr :  [7.038392352032199e-05]
+(6336, 3, 320, 320)
+epoch 8 loss_trn = 1.66019, loss_val = 1.57635, trn_score = 0.7276, val_score = 0.7576
+model (best loss) saved
+model (best score) saved
+
+lr :  [6.265153161346956e-05]
+(6336, 3, 320, 320)
+epoch 9 loss_trn = 1.65116, loss_val = 1.58552, trn_score = 0.7236, val_score = 0.7654
+model (best score) saved
+
+lr :  [5.458767760088046e-05]
+(6336, 3, 320, 320)
+epoch 10 loss_trn = 1.60117, loss_val = 1.66073, trn_score = 0.7278, val_score = 0.7283
+ elapsed_time = 93.6 min
+
+lr :  [4.6412322399119556e-05]
+(6336, 3, 320, 320)
+epoch 11 loss_trn = 1.58307, loss_val = 1.57724, trn_score = 0.7386, val_score = 0.7413
+
+lr :  [3.8348468386530454e-05]
+(6336, 3, 320, 320)
+epoch 12 loss_trn = 1.50201, loss_val = 1.53769, trn_score = 0.7462, val_score = 0.7633
+model (best loss) saved
+
+lr :  [3.061607647967802e-05]
+(6336, 3, 320, 320)
+epoch 13 loss_trn = 1.46402, loss_val = 1.62323, trn_score = 0.7557, val_score = 0.7708
+model (best score) saved
+
+lr :  [2.3426066172939865e-05]
+(6336, 3, 320, 320)
+epoch 14 loss_trn = 1.43748, loss_val = 1.56077, trn_score = 0.7567, val_score = 0.7671
+
+lr :  [1.697456220452583e-05]
+(6336, 3, 320, 320)
+epoch 15 loss_trn = 1.38470, loss_val = 1.52304, trn_score = 0.7698, val_score = 0.7525
+model (best loss) saved
+
+lr :  [1.1437544784878526e-05]
+(6336, 3, 320, 320)
+epoch 16 loss_trn = 1.36995, loss_val = 1.49599, trn_score = 0.7658, val_score = 0.7601
+model (best loss) saved
+
+lr :  [6.966049315278797e-06]
+(6336, 3, 320, 320)
+epoch 17 loss_trn = 1.40476, loss_val = 1.54010, trn_score = 0.7633, val_score = 0.7543
+
+lr :  [3.68204653581858e-06]
+(6336, 3, 320, 320)
+epoch 18 loss_trn = 1.35985, loss_val = 1.52736, trn_score = 0.7709, val_score = 0.7566
+model saved epoch18 for snapshot ensemble
+
+lr :  [1.675115481565245e-06]
+(6336, 3, 320, 320)
+epoch 19 loss_trn = 1.34373, loss_val = 1.51097, trn_score = 0.7710, val_score = 0.7562
+model saved epoch19 for snapshot ensemble
+
+lr :  [1e-06]
+(6336, 3, 320, 320)
+epoch 20 loss_trn = 1.39177, loss_val = 1.48695, trn_score = 0.7690, val_score = 0.7606
+ elapsed_time = 185.6 min
+model (best loss) saved
+model saved epoch20 for snapshot ensemble
+
+epoch_best 20, val_loss_best 1.48695, val_score_best 0.76064
+
+CV=0.7744
+Run time =  22573.252687692642
