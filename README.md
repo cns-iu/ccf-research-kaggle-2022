@@ -9,7 +9,7 @@ The repo is structured in the following way:
 ```
 ## Data
 
-All data used in the competition and the external data used by the winning teams can be [accessed here](https://drive.google.com/drive/folders/1wsaMx1aH0BMAdP3jYvxfuOEghMd9x-pO?usp=sharing). 
+All data used in the competition and the external data used by the winning teams can be [accessed here](https://doi.org/10.5281/zenodo.7545745). 
 
 ## Models
 
