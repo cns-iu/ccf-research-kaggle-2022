@@ -15,6 +15,6 @@ All data used in the competition and the external data used by the winning teams
 
 This repository contains the code for the three performance prize winners.
 
-All trained models (baseline model, winning algorithms) can be [accessed here](https://drive.google.com/drive/folders/1wsaMx1aH0BMAdP3jYvxfuOEghMd9x-pO?usp=sharing).
+All trained models (baseline model, winning algorithms) can be [accessed here](https://doi.org/10.5281/zenodo.7545793).
 
 All instructions on running the three winning models can be found in the `models` directory.
