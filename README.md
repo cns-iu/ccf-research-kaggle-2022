@@ -18,3 +18,5 @@ This repository contains the code for the three performance prize winners.
 All trained models (baseline model, winning algorithms) can be [accessed here](https://doi.org/10.5281/zenodo.7545793).
 
 All instructions on running the three winning models can be found in the `models` directory.
+
+A version of this code is archived on Zenodo at the time of publication at [https://doi.org/10.5281/zenodo.8144891](https://doi.org/10.5281/zenodo.8144891). Additionally, it contains the source data files for the figures/plots presented in the paper, and the scores and metrics of the top 50 teams in the competition which are used for the statistical analysis.
