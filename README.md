@@ -11,6 +11,8 @@ The repo is structured in the following way:
 
 All data used in the competition and the external data used by the winning teams can be [accessed here](https://doi.org/10.5281/zenodo.7545745). 
 
+The complete dataset is also available as a [Kaggle Dataset](https://www.kaggle.com/datasets/yashvrdnjain/histology-pas-he-ihc-images-ftu-segmentation/data).
+
 ## Models
 
 This repository contains the code for the three performance prize winners.
