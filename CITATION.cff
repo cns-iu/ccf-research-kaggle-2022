@@ -1,0 +1,49 @@
+cff-version: 1.2.0
+message: "If you use this software or data, please cite it using the metadata below."
+authors:
+- family-names: Jain
+  given-names: Yashvardhan
+- family-names: Godwin
+  given-names: Leah L.
+- family-names: Joshi
+  given-names: Sripad
+- family-names: Mandarapu
+  given-names: Shriya
+- family-names: Le
+  given-names: Trang
+- family-names: Lindskog
+  given-names: Cecilia
+- family-names: Lundberg
+  given-names: Emma
+- family-names: Börner
+  given-names: Katy
+title: "Segmenting functional tissue units across human organs using community-driven development of generalizable machine learning algorithms"
+doi: 10.1038/s41467-023-40291-0
+date-released: 2023-07-31
+url: "https://doi.org/10.1038/s41467-023-40291-0"
+preferred-citation:
+  type: article
+  authors:
+  - family-names: Jain
+    given-names: Yashvardhan
+  - family-names: Godwin
+    given-names: Leah L.
+  - family-names: Joshi
+    given-names: Sripad
+  - family-names: Mandarapu
+    given-names: Shriya
+  - family-names: Le
+    given-names: Trang
+  - family-names: Lindskog
+    given-names: Cecilia
+  - family-names: Lundberg
+    given-names: Emma
+  - family-names: Börner
+    given-names: Katy
+  doi: "10.1038/s41467-023-40291-0"
+  title: "Segmenting functional tissue units across human organs using community-driven development of generalizable machine learning algorithms"
+  journal: "Nature Communications"
+  volume: 14
+  issue: 1
+  pages: "4656"
+  year: 2023
